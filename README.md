@@ -1,5 +1,5 @@
 # responsive-website
 
-// 1.CONTACT sayfasının formunun düzenlenmesi gerekiyor.
+### Changes
 
-// 2.Frontpage hazırlandı fonksiyonu yazıldı ve çalışır vaziyette. Site açılışında başlaması gereken html sayfasının belirlenmesi gerekiyor.
+Making changes in this project must!
